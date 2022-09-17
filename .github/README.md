@@ -7,7 +7,7 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/forks/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/github/watchers/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Watchers">
     <img src="https://img.shields.io/github/license/AnonymousR1025/FallenMusic?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/commit-activity/w/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Commit Activity">
