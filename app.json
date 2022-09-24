@@ -3,7 +3,7 @@
   "logo": "https://te.legra.ph/file/3261e6b0f7746c55c1402.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/Ritikkashyap6/Love_Music_7",
+  "repository": "https://github.com/Indianmusics/Love_Music_7",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
