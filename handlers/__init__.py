@@ -8,7 +8,7 @@ from pyrogram import Client
 StartTime = time.time()
 
 app = Client(
-    "✦ӄɛɛք ʟǟʊɢɦɨռɢ ✘ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ ",
+    "𝄟≛⃝ 𓆩𝐘𝐊𝐂𓆪ꪾ𝄟≛ ☛✨🥀𝙻𝚘𝚟𝚎_𝚖𝚞𝚜𝚒𝚌🥀✨",
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
