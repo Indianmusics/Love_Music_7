@@ -22,12 +22,12 @@
     "BOT_NAME": {
       "description": "A name for your MusicPlayer Bot",
       "required": false,
-      "value": ""
+      "value": "˹Fᴀʟʟᴇɴ 𝔸ɴɢᴇʟ˼"
     },
     "BOT_USERNAME": {
       "description": "Username of your bot without @",
       "required": false,
-      "value": ""
+      "value": "FallenAngel_RoBot"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps",
@@ -40,17 +40,17 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "Ritik_kashyap_7"
+      "value": "The_Adheera"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "yarri_ka_circle"
+      "value": "StarBotsUpdate"
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "2122501003"
+      "value": "5905205047"
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
